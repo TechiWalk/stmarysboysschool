@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "techiwalk-33385"
+  },
+  "targets": {
+    "techiwalk-33385": {
+      "hosting": {
+        "tr": [
+          "stmarysboys-hss"
+        ]
+      }
+    }
+  }
+}
