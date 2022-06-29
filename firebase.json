@@ -1,7 +1,8 @@
 {
     "hosting": {
-        "target": "en",
+        "target": "tr",
         "public": "public",
+        "cleanUrls": "true",
         "ignore": [
             "firebase.json",
             "**/.*",
